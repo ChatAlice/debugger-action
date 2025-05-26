@@ -1,5 +1,5 @@
 name: 'Debugger'
-description: 'Interactive debugger for GitHub Action with tmate.io'
+description: 'I111'
 runs:
   using: 'node12'
   main: 'action.js'
